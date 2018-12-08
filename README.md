@@ -1,2 +1,2 @@
 # Library-in-Java-and-MySQL
-This project was created while learning java...Do not look at this abomination....
+This is a Library management System written in Java Swing .
